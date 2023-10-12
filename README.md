@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abomine
-- 👀 I’m interested in whatever is fun 
-- 🌱 I’m currently learning tinygrad
-- 💞️ I’m looking to collaborate on fun electronic projects
+- 💞️ I’m looking to collaborate on data driven projects
 - 📫 How to reach me : amineabouhodaifa5@gmail.com 
 
 <!---
